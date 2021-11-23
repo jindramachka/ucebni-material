@@ -1,1 +1,1 @@
-# ucebni-material
+Učební materiál zadaný do hodiny programování.
